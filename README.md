@@ -1,15 +1,71 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README - Gusti Ayu Riyani Astarani</title>
+    <style>
+       body {
+            font-family: sans-serif;
+            background-color: #1a1a1a;
+            color: #ffffff;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #ffffff;
+        }
 
-# I Gusti Ayu Riyani Astarani
+        hr {
+            border: 0;
+            border-top: 1px solid #333;
+            margin: 20px 0;
+        }
+        .links {
+           display: flex;
+           gap: 10px;
+           margin-top: 15px;
+        }
 
-"Hey there! I'm a 19-year-old student starting my journey as a beginner Front End Developer, excited to explore and grow in the world of web development."
----
+        .links a {
+          text-decoration: none;
+          color: #ffffff;
+          padding: 8px 12px;
+          border-radius: 5px;
+        }
+        .links a.instagram {
+           background-color: #e1306c;
+        }
+        .links a.github {
+           background-color: #333;
+        }
+        .links a.linkedin {
+           background-color: #0077b5;
+        }
+        .links a.whatsapp {
+          background-color: #25d366;
+        }
 
-![Profile Picture]([https://your-image-link.com](https://drive.google.com/file/d/1S4l6bxp6s5TO4nZrRKgZdkenrs_-ff4v/view?usp=sharing)) <!-- Ganti dengan URL gambar profil kamu -->
+        .profile-picture {
+          display: block;
+          margin-top: 20px;
+          color: #ffffff;
+        }
 
-### Connect with me:
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gekkaanii?igsh=MThiejFqN254bjVhMw== )
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riyaniastarani6767)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyaniastarani?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285959727446)
+    </style>
+</head>
+<body>
+    <h1>README</h1>
+    <p>Hi there 👋</p>
+    <hr>
+    <h2>I Gusti Ayu Riyani Astarani</h2>
+    <p>"Hey there! I'm a 19-year-old student starting my journey as a beginner Front End Developer, excited to explore and grow in the world of web development."</p>
+    <a href="#" class="profile-picture">Profile Picture</a>
+    <p>Connect with me:</p>
+    <div class="links">
+        <a href="#" class="instagram">INSTAGRAM</a>
+        <a href="#" class="github">GITHUB</a>
+        <a href="#" class="linkedin">LINKEDIN</a>
+        <a href="#" class="whatsapp">WHATSAPP</a>
+    </div>
+</body>
+</html>

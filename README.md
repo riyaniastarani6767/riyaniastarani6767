@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'am I Gusti Ayu Riyani Astarani
 
-# I Gusti Ayu Riyani Astarani
-
-"Hey there! I'm a 19-year-old student starting my journey as a beginner Front End Developer, excited to explore and grow in the world of web development."
+"19-year-old student starting my journey as a beginner Front End Developer, excited to explore and grow in the world of web development."
 ---
 
 ### Connect with me:
